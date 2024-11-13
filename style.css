@@ -1,0 +1,27 @@
+/* h1{
+    color: rgb(220, 101, 101);
+} */
+
+/* p{
+    color: rgb(5, 177, 137);
+} */
+button{
+    color: black;
+    background-color: burlywood;
+}
+
+/* *{
+    color: pink;
+} */
+#headingone{
+    color: blue;
+}
+#headingtwo{
+    color: chartreuse;
+}
+.myclass{
+    color:yellow ;
+}
+p{
+    text-align: center;
+}
